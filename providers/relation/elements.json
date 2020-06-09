@@ -1,0 +1,14 @@
+{
+  "search_box": "XCUIElementTypeWindow[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeButton[1]/XCUIElementTypeStaticText[1]",
+  "hot_relation": "XCUIElementTypeWindow[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeImage[2]",
+  "first_port": "XCUIElementTypeWindow[1]/**/XCUIElementTypeTable/XCUIElementTypeCell[1]/XCUIElementTypeButton[2]",
+  "field_box1": "XCUIElementTypeWindow[1]/XCUIElementTypeOther/**/XCUIElementTypeTextField[1]",
+  "field_box2": "XCUIElementTypeWindow[1]/XCUIElementTypeOther/**/XCUIElementTypeTextField[2]",
+  "send_box": "XCUIElementTypeWindow[1]/XCUIElementTypeOther/**/XCUIElementTypeImage[1]/XCUIElementTypeTextField[1]",
+  "scan": "XCUIElementTypeWindow[1]/**/XCUIElementTypeButton[1]/XCUIElementTypeStaticText[1]"
+}
+
+
+
+
+
